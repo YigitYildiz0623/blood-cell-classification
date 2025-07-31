@@ -99,7 +99,8 @@ jupyter [notebook]
 
 ## 🙋‍♂️ Author
 - Yiğit Yıldız
-- 📧 Contact: [Your Email] 🔗 [LinkedIn](https://www.linkedin.com/in/yi%C4%9Fit-y%C4%B1ld%C4%B1z-490ab91b1/)
+- 📧 Contact: yigit.yildiz023@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yi%C4%9Fit-y%C4%B1ld%C4%B1z-490ab91b1/)
 - 💼 Open to internships and AI research opportunities!
 
 ---
